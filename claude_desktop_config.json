@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "whatsapp": {
+        "command": "C:\\Users\\ADMIN\\.local\\bin\\uv", 
+        "args": [
+            "run",
+            "--directory",
+            "F:\\whatsapp-mcp\\whatsapp-mcp-server", 
+            "python",
+            "main.py"
+        ]
+        }
+    }
+    }
