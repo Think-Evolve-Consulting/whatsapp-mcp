@@ -1,3 +1,14 @@
+
+Date: 7th April 2025 
+
+
+This is a fork of Luke Harris WhatsApp MCP server. The change is I have added a configuration file for configuring WhatsApp MCP on Windows Operating System. 
+
+Another change that will be added is that you will be able to send files via the API. 
+
+
+-----------------------------------------
+
 # WhatsApp MCP Server
 
 This is a Model Context Protocol (MCP) server for WhatsApp.
